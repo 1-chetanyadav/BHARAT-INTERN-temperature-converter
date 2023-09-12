@@ -44,9 +44,10 @@ font-weight: 700;
     width: 40%;
     justify-content: space-between;
     align-items: center;
-    background: rgb(85, 90, 67);
-    border-radius: 10px;
+    background: rgb(49, 27, 119);
+    border-radius: 20px;
     padding: 50px 20px;
+    margin-top: 70px;
 }
 
 .col {
